@@ -1,13 +1,12 @@
 import React, { useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 // import components
 import Room from './useSate/Room';
-import Parent from './useContext/Parent';
-import Child from './useContext/Child';
+// import Parent from './useContext/Parent';
+// import Child from './useContext/Child';
 import ValueContext from './useContext/ValueContext';
-import value from './useContext/ValueContext';
+ // import value from './useContext/ValueContext';
 
 function App() {
 
