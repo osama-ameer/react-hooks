@@ -16,7 +16,7 @@ function App() {
     
      <ValueContext.Provider value={value}>
        <div>
-      <h2>Hello from App.js</h2> 
+      {/* <h2>Hello from App.js</h2>  */}
     <Room></Room>
     
     {/* <Parent></Parent> */}
